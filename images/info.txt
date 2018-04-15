@@ -1,0 +1,1 @@
+Simulation time:1.74074359124 seconds,dt=0.0087037179562
